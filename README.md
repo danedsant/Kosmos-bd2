@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/JavaScript-Vanilla%20SPA-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/jsPDF-Certificados%20Vectoriales-FF3E00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="jsPDF">
   <img src="https://img.shields.io/badge/XML-DTD%20%26%20XPath-0060AA?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
-
+ 
 </p>
 
 ---
